@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "@blogster/plugin-devto",
+    "@blogster/plugin-medium"
+  ],
+  "include": [
+    "posts/**/**/*.md"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "jimsblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jimmy Briggs <jimmy.briggs@jimbrig.com> (https://github.com/jimbrig)",
+  "license": "Unlicense",
+  "devDependencies": {
+    "@blogster/cli": "^1.0.2",
+    "@blogster/plugin-devto": "^1.0.3",
+    "@blogster/plugin-medium": "^1.0.4",
+    "prettier": "^2.8.8"
+  }
+}
