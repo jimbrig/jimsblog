@@ -1,17 +1,36 @@
 {
   "name": "jimsblog",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Personal Blog",
+  "author": "Jimmy Briggs <jimmy.briggs@jimbrig.com> (https://github.com/jimbrig)",
+  "license": "Unlicense",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jimmy Briggs <jimmy.briggs@jimbrig.com> (https://github.com/jimbrig)",
-  "license": "Unlicense",
   "devDependencies": {
     "@blogster/cli": "^1.0.2",
     "@blogster/plugin-devto": "^1.0.3",
     "@blogster/plugin-medium": "^1.0.4",
-    "prettier": "^2.8.8"
+    "@commitlint/cli": "^17.6.5",
+    "@commitlint/config-conventional": "^17.6.5",
+    "@typescript-eslint/eslint-plugin": "^5.60.0",
+    "@typescript-eslint/parser": "^5.60.0",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "eslint": "^8.43.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-only-warn": "^1.1.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.2",
+    "markdownlint-cli": "^0.35.0",
+    "prettier": "^2.8.8",
+    "textlint": "^13.3.2",
+    "textlint-filter-rule-comments": "^1.2.2",
+    "textlint-rule-en-spell": "^1.2.4",
+    "textlint-rule-no-dead-link": "^5.1.2",
+    "textlint-rule-terminology": "^3.0.4",
+    "typescript": "^5.1.3"
   }
 }
