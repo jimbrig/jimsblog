@@ -6,7 +6,8 @@ on:
       - main
       - develop
     paths:
-      - "posts/**/**/*.md"
+      - "source/**/**/*.md"
+      - "posts/*"
   workflow_dispatch:
 
 jobs:
