@@ -1,0 +1,26 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "files.associations": {
+    ".blogsterrc": "jsonc",
+    ".czrc": "json",
+    ".commitlintrc": "jsonc",
+    ".huskyrc": "json",
+    ".lintstagedrc": "json",
+    ".textlintrc": "jsonc"
+  },
+  "files.trimTrailingWhitespace": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false
+  },
+  "textlint.autoFixOnSave": false,
+  "textlint.run": "onSave"
+}
