@@ -9,6 +9,7 @@
 ### Configuration
 
 - Update GHA
+- Update GHA
 - Update configs
 - Update dependencies
 - Setup initial configs
