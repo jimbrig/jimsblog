@@ -18,6 +18,7 @@
 
 ### Features
 
+- Initialize crossposting
 - Create changelog GHA
 - Add variety of new configs
 - Add first post
