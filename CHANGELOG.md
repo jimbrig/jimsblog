@@ -12,6 +12,10 @@
 - Update dependencies
 - Setup initial configs
 
+### Documentation
+
+- Add README
+
 ### Features
 
 - Create changelog GHA
