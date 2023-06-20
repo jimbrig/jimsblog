@@ -22,5 +22,9 @@
     "files.trimTrailingWhitespace": false
   },
   "textlint.autoFixOnSave": false,
-  "textlint.run": "onSave"
+  "textlint.run": "onSave",
+  "cSpell.words": [
+    "blogster",
+    "devto"
+  ]
 }

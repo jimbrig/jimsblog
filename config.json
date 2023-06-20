@@ -1,0 +1,17 @@
+{
+  "uploadDirPath": "./source/_posts",
+  "excludeMds": [],
+  "mediumOpts": {
+    "canonicalUrl": "https://therdispatch.netlify.app/post/searching_from_r/",
+    "publishStatus": "public",
+    "contentFormat": "markdown",
+    "license": "Unlicense",
+    "tags": [
+      "R"
+    ],
+    "publicationUrl": "https://medium.jimbrig.com/"
+  },
+  "articleOpts": {
+    "isAddTitle": false
+  }
+}
