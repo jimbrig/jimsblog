@@ -36,7 +36,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jimbrig/jimsblog](https://github.com/jimbrig/jimsblog)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|20<br/>Tools used|12/07/23 <br/>Report generated|
+|22<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -144,9 +144,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (9)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (11)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (9)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (11)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -158,6 +158,8 @@ Full tech stack [here](/techstack.md)
 |[cz-conventional-changelog](https://www.npmjs.com/cz-conventional-changelog)|v3.3.0|06/20/23|Jimmy Briggs |MIT|N/A|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.8.0|06/20/23|Jimmy Briggs |MIT|N/A|
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v4.2.1|06/20/23|Jimmy Briggs |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|06/20/23|Jimmy Briggs |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v13.2.2|06/20/23|Jimmy Briggs |MIT|N/A|
 |[markdownlint-cli](https://www.npmjs.com/markdownlint-cli)|v0.35.0|06/20/23|Jimmy Briggs |MIT|N/A|
 
 <br/>
